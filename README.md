@@ -4,6 +4,10 @@ An end-to-end Data Engineering pipeline that ingests, cleans, validates, and int
 
 ---
 
+<p align="center">
+  <img src="Project.jpg" alt="Data Engineering Pipeline Phases" width="100%">
+</p>
+
 ## 📌 Project Overview
 
 This project implements a complete ETL and reporting workflow:
