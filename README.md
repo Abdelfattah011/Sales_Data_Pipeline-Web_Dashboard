@@ -19,6 +19,7 @@ This project implements a complete ETL and reporting workflow:
 ---
 
 ## 🏗️ Architecture
+```Architecture
 [ Raw CSV / Data Sources ]
 │
 ▼
@@ -32,6 +33,7 @@ This project implements a complete ETL and reporting workflow:
 │
 ▼
 [ HTML / Bootstrap Dashboard ]
+```
 
 ## 📂 Project Structure
 
